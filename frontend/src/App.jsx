@@ -32,7 +32,7 @@ function App() {
         throw new Error(error);
       }
     },
-    retry: false 
+    retry: false ,
   })
 
   if(isLoading) {
