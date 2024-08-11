@@ -1,4 +1,3 @@
-import { MdTaxiAlert } from "react-icons/md";
 import { generateTokenAndSetCookie } from "../lib/utils/generateToken.js";
 import User from "../models/user.model.js";
 import bcrypt from "bcryptjs";
