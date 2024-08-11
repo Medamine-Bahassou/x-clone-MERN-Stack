@@ -42,6 +42,10 @@ if (process.env.NODE_ENV === "production") {
     });
 }
 
+console.log(path.join(__dirname, "./frontend/dist"));
+console.log(path.resolve(__dirname, "frontend", "dist", "index.html"));
+
+
 app.listen(PORT, () => {
 	console.log(`Server is running on port ${PORT} ${__dirname}`);
 	connectMongoDB();
