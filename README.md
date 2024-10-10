@@ -26,7 +26,7 @@ A simplified clone of the social media platform X (formerly known as Twitter), d
 
 ## Technologies Used
 * **Frontend:** ReactJS
-* **Backend:** Node.js with Express.js (or any backend framework of choice)
+* **Backend:** Node.js with Express.js 
 * **Database:** MongoDB 
 * **Authentication:** JWT (JSON Web Tokens) for secure user authentication
 * **Additional Tools:** TailwindCSS for styling, daisyUI
