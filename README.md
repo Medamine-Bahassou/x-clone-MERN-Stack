@@ -31,5 +31,13 @@ A simplified clone of the social media platform X (formerly known as Twitter), d
 * **Authentication:** JWT (JSON Web Tokens) for secure user authentication
 * **Additional Tools:** TailwindCSS for styling, daisyUI
 
+## Backend Dependencies 
+```
+npm i express mongoose jsonwebtoken bcryptjs dotenv cors cookie-parser cloudinary
+npm i -D nodemon
+```
+
+
 ## Sources
 https://www.youtube.com/watch?v=4GUVz2psWUg&t=14573s
+
